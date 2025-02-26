@@ -13,4 +13,4 @@ const TaskCard = ({ task }) => {
     );
 };
 
-export default Task;
+export default Tas;
